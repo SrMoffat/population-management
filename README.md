@@ -12,3 +12,15 @@ A Population Management System that contains a list of locations and the total n
 - [x] List all available locations and their population summaries
 - [x] Update data for a specific locations Delete a specified location
 - [x] Summaries include: `total male residents, total female residents, sum total residents`
+
+## Project Setup
+1. **Clone the Repository**
+`git clone https://github.com/SrMoffat/population-management.git`
+
+2. **Ensure you have Node installed on your local environment**
+`brew install node`
+
+3. **Run yarn** to install dependencies
+4. **Run the app**
+`yarn start`
+5. **Use postman, curl, or insomnia to test endpoints**
