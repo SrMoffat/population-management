@@ -21,6 +21,8 @@ A Population Management System that contains a list of locations and the total n
 `brew install node`
 
 3. **Run yarn** to install dependencies
-4. **Run the app**
+4. **Ensure you have update your .env**
+`Ensure it matches the .env_examples`
+5. **Run the app**
 `yarn start`
-5. **Use postman, curl, or insomnia to test endpoints**
+6. **Use postman, curl, or insomnia to test endpoints**
