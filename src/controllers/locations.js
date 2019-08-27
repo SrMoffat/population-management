@@ -1,4 +1,4 @@
-import Location from './../database/models/locations';
+import Location from '../database/locationModel';
 import mongoose from 'mongoose';
 
 export default class LocationsController{
